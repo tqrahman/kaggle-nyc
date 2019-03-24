@@ -1,1 +1,1 @@
-web: gunicorn kagglenyc.wsgi
+web gunicorn kagglenyc.wsgi
